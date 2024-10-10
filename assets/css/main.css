@@ -4654,10 +4654,19 @@ input, select, textarea {
 
   #position{
 	  font-family: cursive;
+	  text-align: center;
 	  margin: 0 auto;
 	  font-size: x-large;
 	  color: white;
   }
+
+  #comments{
+	font-family: cursive;
+	text-align: center;
+	margin: 0 auto;
+	font-size: small;
+	color: white;
+}
 
   @media(max-width: 900px){
 
